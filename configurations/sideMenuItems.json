@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "name": "Home",
+      "type": "button",
+      "icon": "home",
+      "controller": "home",
+      "customTitle": "Home"
+    },
+    {
+      "name": "User",
+      "type": "button",
+      "icon": "person",
+      "controller": "user",
+      "customTitle": "User"
+    },
+    {
+      "name": "PATIENT",
+      "type": "button",
+      "icon": "accessible",
+      "controller": "patient",
+      "customTitle": "Patients Information"
+    },
+    {
+      "name": "Care Plan",
+      "type": "button",
+      "icon": "assignment",
+      "controller": "carePlan",
+      "customTitle": "Care Plan"
+    }
+  ]
+}

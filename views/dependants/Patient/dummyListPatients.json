@@ -1,0 +1,124 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "title": "Mr",
+      "firstName": "Hugh",
+      "middleName": "Michael",
+      "lastName": "Jackman",
+      "dob": "01/01/1970",
+      "medNumber": "0123456789",
+      "sex": "male",
+      "marialStatus": "Singled",
+      "contact": {
+        "address": "01 Elgar Road",
+        "suburb": "Burwood",
+        "postcode": "3125",
+        "state": "VIC",
+        "country": "Australia",
+        "homePhone": "0123456789",
+        "mobileNumber": "0123456789",
+        "email": "hugh.jackman@deakin.edu.au",
+        "emergencyContact": "Deakin University",
+        "emergencyPhone": "0123456789"
+      },
+      "insurance": {
+        "insuranceProvider": "Bupa",
+        "insuranceNumber": "0123456789",
+        "effectiveDate": "01/01/2018",
+        "expiryDate": "01/01/2020"
+      },
+      "healthData": {
+        "pulseRates": ["95", "90", "80", "85", "90"],
+        "bloodGlucoses": ["4.5", "3.9", "5.5", "6.2", "5.0"],
+        "bloodPressure": "120/80",
+        "Weight": "70",
+        "Height": "185",
+        "bloodOxygens": ["85", "80", "70", "75", "100"],
+        "sleep": "7",
+        "step": "5000",
+        "distance": "3"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mrs",
+      "firstName": "Nicole",
+      "middleName": "Mary",
+      "lastName": "Kidman",
+      "dob": "01/01/1970",
+      "medNumber": "0123456789",
+      "sex": "female",
+      "marialStatus": "Married",
+      "contact": {
+        "address": "02 Elgar Road",
+        "suburb": "Darlinghurst",
+        "postcode": "1300",
+        "state": "NSW",
+        "country": "Australia",
+        "homePhone": "0123456789",
+        "mobileNumber": "0123456789",
+        "email": "nicole.kidmann@deakin.edu.au",
+        "emergencyContact": "Deakin University",
+        "emergencyPhone": "0123456789"
+      },
+      "insurance": {
+        "insuranceProvider": "Medibank",
+        "insuranceNumber": "0123456789",
+        "effectiveDate": "01/01/2018",
+        "expiryDate": "01/01/2020"
+      },
+      "healthData": {
+        "pulseRates": ["85", "90", "60", "75", "70"],
+        "bloodGlucoses": ["5.5", "2.9", "3.5", "4.2", "5.0"],
+        "bloodPressure": "110/80",
+        "Weight": "55",
+        "Height": "175",
+        "bloodOxygens": ["75", "70", "80", "65", "90"],
+        "sleep": "8",
+        "step": "3000",
+        "distance": "1"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Mr",
+      "firstName": "Christopher",
+      "middleName": "",
+      "lastName": "Hemsworth",
+      "dob": "01/01/1970",
+      "medNumber": "0123456789",
+      "sex": "male",
+      "marialStatus": "Married",
+      "contact": {
+        "address": "03 Elgar Road",
+        "suburb": "Darlinghurst",
+        "postcode": "1300",
+        "state": "NSW",
+        "country": "Australia",
+        "homePhone": "0123456789",
+        "mobileNumber": "0123456789",
+        "email": "chris.hemsworth@deakin.edu.au",
+        "emergencyContact": "Deakin University",
+        "emergencyPhone": "0123456789"
+      },
+      "insurance": {
+        "insuranceProvider": "Medibank",
+        "insuranceNumber": "0123456789",
+        "effectiveDate": "01/01/2018",
+        "expiryDate": "01/01/2020"
+      },
+      "healthData": {
+        "pulseRates": ["75", "85", "90", "60", "65"],
+        "bloodGlucoses": ["7.0", "5.5", "3.0", "5.5", "4.5"],
+        "bloodPressure": "110/80",
+        "Weight": "85",
+        "Height": "190",
+        "bloodOxygens": ["65", "70", "90", "100", "60"],
+        "sleep": "8",
+        "step": "3000",
+        "distance": "1"
+      }
+    }
+  ]
+}
